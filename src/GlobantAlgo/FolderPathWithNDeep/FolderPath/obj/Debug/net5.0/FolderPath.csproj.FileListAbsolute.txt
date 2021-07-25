@@ -1,0 +1,16 @@
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\FolderPathWithNDeep\FolderPath\bin\Debug\net5.0\FolderPath.exe
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\FolderPathWithNDeep\FolderPath\bin\Debug\net5.0\FolderPath.deps.json
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\FolderPathWithNDeep\FolderPath\bin\Debug\net5.0\FolderPath.runtimeconfig.json
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\FolderPathWithNDeep\FolderPath\bin\Debug\net5.0\FolderPath.runtimeconfig.dev.json
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\FolderPathWithNDeep\FolderPath\bin\Debug\net5.0\FolderPath.dll
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\FolderPathWithNDeep\FolderPath\bin\Debug\net5.0\ref\FolderPath.dll
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\FolderPathWithNDeep\FolderPath\bin\Debug\net5.0\FolderPath.pdb
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\FolderPathWithNDeep\FolderPath\obj\Debug\net5.0\FolderPath.csproj.AssemblyReference.cache
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\FolderPathWithNDeep\FolderPath\obj\Debug\net5.0\FolderPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\FolderPathWithNDeep\FolderPath\obj\Debug\net5.0\FolderPath.AssemblyInfoInputs.cache
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\FolderPathWithNDeep\FolderPath\obj\Debug\net5.0\FolderPath.AssemblyInfo.cs
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\FolderPathWithNDeep\FolderPath\obj\Debug\net5.0\FolderPath.csproj.CoreCompileInputs.cache
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\FolderPathWithNDeep\FolderPath\obj\Debug\net5.0\FolderPath.dll
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\FolderPathWithNDeep\FolderPath\obj\Debug\net5.0\ref\FolderPath.dll
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\FolderPathWithNDeep\FolderPath\obj\Debug\net5.0\FolderPath.pdb
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\FolderPathWithNDeep\FolderPath\obj\Debug\net5.0\FolderPath.genruntimeconfig.cache
