@@ -1,0 +1,16 @@
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\RemoveEachKthElement\bin\Debug\net5.0\RemoveEachKthElement.exe
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\RemoveEachKthElement\bin\Debug\net5.0\RemoveEachKthElement.deps.json
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\RemoveEachKthElement\bin\Debug\net5.0\RemoveEachKthElement.runtimeconfig.json
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\RemoveEachKthElement\bin\Debug\net5.0\RemoveEachKthElement.runtimeconfig.dev.json
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\RemoveEachKthElement\bin\Debug\net5.0\RemoveEachKthElement.dll
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\RemoveEachKthElement\bin\Debug\net5.0\ref\RemoveEachKthElement.dll
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\RemoveEachKthElement\bin\Debug\net5.0\RemoveEachKthElement.pdb
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\RemoveEachKthElement\obj\Debug\net5.0\RemoveEachKthElement.csproj.AssemblyReference.cache
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\RemoveEachKthElement\obj\Debug\net5.0\RemoveEachKthElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\RemoveEachKthElement\obj\Debug\net5.0\RemoveEachKthElement.AssemblyInfoInputs.cache
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\RemoveEachKthElement\obj\Debug\net5.0\RemoveEachKthElement.AssemblyInfo.cs
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\RemoveEachKthElement\obj\Debug\net5.0\RemoveEachKthElement.csproj.CoreCompileInputs.cache
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\RemoveEachKthElement\obj\Debug\net5.0\RemoveEachKthElement.dll
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\RemoveEachKthElement\obj\Debug\net5.0\ref\RemoveEachKthElement.dll
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\RemoveEachKthElement\obj\Debug\net5.0\RemoveEachKthElement.pdb
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\RemoveEachKthElement\obj\Debug\net5.0\RemoveEachKthElement.genruntimeconfig.cache
