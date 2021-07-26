@@ -8,7 +8,6 @@ namespace BracketsValidator
 {
     public class ValidateBrackets
     {
-        public readonly char[] Brackets = { '(', ')', '[', ']', '{', '}' };
         public readonly char[] OpenBrackets = { '(', '[', '{' };
         public readonly char[] CloseBrackets = { ')', ']', '}' };
         public bool IsValidBrackets(string bracketsLine)
@@ -36,6 +35,22 @@ namespace BracketsValidator
             }
             return stack.Count == 0;
         }
+
+        /*public bool IsValidBracketsSecondWay(string bracketsLine){
+            if (bracketsLine == null || bracketsLine.Length == 0)
+                return false;
+            if (bracketsLine.Length == 1)
+                return false;
+            
+            var brackets = bracketsLine.ToCharArray();
+            for (int i = 0; i < brackets.Length; i++){
+                var fist = brackets[i];
+                if (fist == '(' || fist == '[' || fist == '{'){
+                    var stack = new Stack<char>();
+                    var last = brackets
+                }
+            }
+        }*/
 
     }
 }
