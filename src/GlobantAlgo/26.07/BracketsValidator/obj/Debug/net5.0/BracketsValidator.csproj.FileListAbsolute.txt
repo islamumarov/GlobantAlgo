@@ -9,3 +9,4 @@ C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\26.07\BracketsValidato
 C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\26.07\BracketsValidator\obj\Debug\net5.0\BracketsValidator.dll
 C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\26.07\BracketsValidator\obj\Debug\net5.0\ref\BracketsValidator.dll
 C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\26.07\BracketsValidator\obj\Debug\net5.0\BracketsValidator.pdb
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\26.07\BracketsValidator\obj\Debug\net5.0\BracketsValidator.csproj.AssemblyReference.cache

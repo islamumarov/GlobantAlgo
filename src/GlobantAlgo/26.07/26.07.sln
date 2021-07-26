@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BracketsValidator", "BracketsValidator\BracketsValidator.csproj", "{50B05F35-9A22-4501-98BB-6066004A6D60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BracketsValidator", "BracketsValidator\BracketsValidator.csproj", "{50B05F35-9A22-4501-98BB-6066004A6D60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{29FBC987-41CB-4C30-83AC-C92159EFF684}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectWithTests", "ProjectWithTests\ProjectWithTests.csproj", "{FF4BDB11-BDD2-4F87-AA2F-E65887E7C9F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{50B05F35-9A22-4501-98BB-6066004A6D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50B05F35-9A22-4501-98BB-6066004A6D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50B05F35-9A22-4501-98BB-6066004A6D60}.Release|Any CPU.Build.0 = Release|Any CPU
-		{29FBC987-41CB-4C30-83AC-C92159EFF684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{29FBC987-41CB-4C30-83AC-C92159EFF684}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{29FBC987-41CB-4C30-83AC-C92159EFF684}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{29FBC987-41CB-4C30-83AC-C92159EFF684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF4BDB11-BDD2-4F87-AA2F-E65887E7C9F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF4BDB11-BDD2-4F87-AA2F-E65887E7C9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF4BDB11-BDD2-4F87-AA2F-E65887E7C9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF4BDB11-BDD2-4F87-AA2F-E65887E7C9F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
