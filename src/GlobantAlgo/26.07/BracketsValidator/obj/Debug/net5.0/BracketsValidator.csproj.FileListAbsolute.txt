@@ -1,0 +1,11 @@
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\26.07\BracketsValidator\bin\Debug\net5.0\BracketsValidator.deps.json
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\26.07\BracketsValidator\bin\Debug\net5.0\BracketsValidator.dll
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\26.07\BracketsValidator\bin\Debug\net5.0\ref\BracketsValidator.dll
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\26.07\BracketsValidator\bin\Debug\net5.0\BracketsValidator.pdb
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\26.07\BracketsValidator\obj\Debug\net5.0\BracketsValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\26.07\BracketsValidator\obj\Debug\net5.0\BracketsValidator.AssemblyInfoInputs.cache
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\26.07\BracketsValidator\obj\Debug\net5.0\BracketsValidator.AssemblyInfo.cs
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\26.07\BracketsValidator\obj\Debug\net5.0\BracketsValidator.csproj.CoreCompileInputs.cache
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\26.07\BracketsValidator\obj\Debug\net5.0\BracketsValidator.dll
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\26.07\BracketsValidator\obj\Debug\net5.0\ref\BracketsValidator.dll
+C:\Users\islam.umarov\Desktop\GlobantAlgo\src\GlobantAlgo\26.07\BracketsValidator\obj\Debug\net5.0\BracketsValidator.pdb
