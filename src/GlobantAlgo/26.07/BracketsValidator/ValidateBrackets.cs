@@ -18,18 +18,16 @@ namespace BracketsValidator
                 return false;
 
             var brackets = bracketsLine.ToCharArray();
-            var openBrackets = OpenBrackets;
-            var closeBrackets = CloseBrackets;
             var stack = new Stack<char>();
             for (int i = 0; i < brackets.Length; i++)
             {
-                if (openBrackets.Contains(brackets[i]))
+                if (OpenBrackets.Contains(brackets[i]))
                     stack.Push(brackets[i]);
-                if (closeBrackets.Contains(brackets[i]))
+                if (CloseBrackets.Contains(brackets[i]))
                 {
                     if (stack.Count == 0)
                         return false;
-                    if (Array.IndexOf(openBrackets, stack.Pop()) != Array.IndexOf(closeBrackets, brackets[i]))
+                    if (Array.IndexOf(OpenBrackets, stack.Pop()) != Array.IndexOf(CloseBrackets, brackets[i]))
                         return false;
                 }
             }

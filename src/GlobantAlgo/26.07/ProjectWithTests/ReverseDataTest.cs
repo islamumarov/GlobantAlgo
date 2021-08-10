@@ -11,6 +11,7 @@ namespace ProjectWithTests
     {
 
         [Theory]
+        [InlineData("ab", "ab")]
         [InlineData("(ab)", "ba")]
         [InlineData("((ab))", "ab")]
         [InlineData("(a(bc)d)","dbca")]
@@ -20,6 +21,6 @@ namespace ProjectWithTests
             var actual = reveser.reverseParentheses(line, line.Length);
 
             Assert.Equal(expected,actual);
-        }
+        }   
     }
 }
