@@ -25,21 +25,19 @@ namespace RemoveEachKthElement
         }
 
 
-        public void RemoveEveryKthPrisoner(int k, int startIndex=0)
+        public void RemoveEveryKthPrisoner(int k, int startIndex = 0)
         {
             var action = 0;
             var removeIndex = startIndex;
-            while (this.Prisoners.Count !=1 )
+            while (this.Prisoners.Count != 1)
             {
                 if (k > Prisoners.Count)
                 {
-                    removeIndex= (k+startIndex) % Prisoners.Count;
-                    startIndex = removeIndex-1;
-                    this.Prisoners.RemoveAt(removeIndex-1);
+                    removeIndex = (k + startIndex) % Prisoners.Count;
+                    startIndex = removeIndex - 1;
+                    this.Prisoners.RemoveAt(removeIndex - 1);
                     action++;
                     Console.WriteLine(action);
-                    if(action == 6055)
-                        Console.WriteLine("SOme");
                     continue;
                 }
 
@@ -47,7 +45,7 @@ namespace RemoveEachKthElement
                 {
                     Prisoners.RemoveAt(0);
                     startIndex = 0;
-                     continue;///RemoveEveryKthPrisoner(k, startIndex);
+                    continue;
                 }
                 else
                 {
@@ -57,7 +55,7 @@ namespace RemoveEachKthElement
                         this.Prisoners.RemoveAt(startIndex + k - 1);
                         startIndex = startIndex + k - 1;
                     }
-                    continue; ///RemoveEveryKthPrisoner(k, startIndex);
+                    continue;
                 }
             }
             last = Prisoners[0];
