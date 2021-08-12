@@ -29,11 +29,11 @@ s1 = "aabcc", s2 = "dbbca", s3 = "aadbbcbcac" -> true
 
 ![Image for third task](img3.png) ![Image for first Task](img.png)
 
-| List of Tasks |      Tests       | Stage |
-| ------------- | :--------------: | :---: |
-| [Task 1]()    | [Tests Task 1]() |  ✅   |
-| [Task 2]()    | [Tests Task 2]() |  🌀   |
-| [Task 3 ]()   |                  |  🌀   |
+| List of Tasks                                                                                                       |                                                               Tests                                                               | Stage |
+| ------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------: | :---: |
+| [Task 1](https://github.com/ripdotnet/GlobantAlgo/blob/main/src/GlobantAlgo/09.08/ThreeLinesOfString/MergeLines.cs) | [Tests Task 1](https://github.com/ripdotnet/GlobantAlgo/blob/main/src/GlobantAlgo/09.08/ThreeLinesOfStringTest/MergeLinesTest.cs) |  ✅   |
+| [Task 2]()                                                                                                          |                                                         [Tests Task 2]()                                                          |  🌀   |
+| [Task 3 ]()                                                                                                         |                                                                                                                                   |  🌀   |
 
 #### <i>Legend:</i>
 
