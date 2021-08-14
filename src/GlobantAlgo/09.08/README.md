@@ -33,7 +33,7 @@ s1 = "aabcc", s2 = "dbbca", s3 = "aadbbcbcac" -> true
 | ------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------: | :---: |
 | [Task 1](https://github.com/ripdotnet/GlobantAlgo/blob/main/src/GlobantAlgo/09.08/ThreeLinesOfString/MergeLines.cs) |    [Tests Task 1](https://github.com/ripdotnet/GlobantAlgo/blob/main/src/GlobantAlgo/09.08/09.08.Tests/MergeLinesTest.cs)    |  ✅   |
 | [Task 2](https://github.com/ripdotnet/GlobantAlgo/blob/main/src/GlobantAlgo/09.08/PyramidAndNodes/Program.cs#L15)   | [Tests Task 2](https://github.com/ripdotnet/GlobantAlgo/blob/main/src/GlobantAlgo/09.08/09.08.Tests/MaxPathInPyramidTest.cs) |  ✅   |
-| [Task 3 ]()                                                                                                         |                                                                                                                              |  🌀   |
+| [Task 3 ](https://github.com/ripdotnet/GlobantAlgo/blob/main/src/GlobantAlgo/09.08/PredictWinner/PairGameWinner.cs) |   [Test Task 3](https://github.com/ripdotnet/GlobantAlgo/blob/main/src/GlobantAlgo/09.08/09.08.Tests/PredictWinnerTest.cs)   |  ✅   |
 
 #### <i>Legend:</i>
 
