@@ -25,6 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\PyramidAndNodes\PyramidAndNodes.csproj" />
     <ProjectReference Include="..\ThreeLinesOfString\ThreeLinesOfString.csproj" />
   </ItemGroup>
 
